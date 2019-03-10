@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: SmackTalk
+## Notes: Say something, clever, RP, funny on ability use.
+## Author: Souldoubt
+## SavedVariablesPerCharacter: rules, smackEventReg, numRules, numRegEvt
+SmackTalk.lua
+SmackTalk.xml
